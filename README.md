@@ -10,7 +10,7 @@ Il sito è pubblicato con GitHub Pages: https://albertobortolottoit.github.io/ve
 
 - `index.html` — pagina principale (one-page, HTML statico puro senza JavaScript)
 - `assets/` — CSS e immagini
-- `__l5e/assets-v1/` — logo (percorso ereditato dall'export Lovable)
+- `assets/logo-venere-tartaro.png` — logo
 
 Gli script di hydration React, il badge e i tracker Lovable sono stati rimossi: la pagina era già completamente renderizzata nell'HTML e il JavaScript causava una schermata bianca quando il sito veniva servito da un sottopercorso.
 
